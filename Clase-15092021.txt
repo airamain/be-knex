@@ -1,0 +1,8 @@
+! resolver consultas / dudas
+1 - Teorias de SQL
+2 - Hacer un mejor codigo. funciones? servicios?
+3 - JOIN SQL
+4 - Tarea
+5 - script de BD Titanic
+6 - Validaciones @hapi/joi
+
